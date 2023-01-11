@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# 과제 done
+
 # C extensions
 *.so
 
